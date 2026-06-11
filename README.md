@@ -15,6 +15,9 @@ disparities, subsidy impacts, and income level correlations.
 - MySQL data storage, cleaning, and analysis
 - Power BI interactive dashboard
 
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
 ## Dataset
 - 27,470 rows | 84 countries | 7 regions | 2020-2026
 - Columns: date, country, region, income_level, subsidy_level,
