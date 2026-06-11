@@ -16,7 +16,7 @@ disparities, subsidy impacts, and income level correlations.
 - Power BI interactive dashboard
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/overview.png)
 
 ## Dataset
 - 27,470 rows | 84 countries | 7 regions | 2020-2026
